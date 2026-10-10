@@ -10,10 +10,10 @@ The objective is to survive as long as possible without colliding with obstacles
 
 ## ✨ Features
 
-- **Bird Movement** — Control the bird's movement throughout the game.
-- **Obstacle Avoidance** — Navigate through obstacles without colliding with them.
-- **Score Challenge** — Challenge yourself to achieve a higher score.
-- **Game Assets** — Includes an assets directory for game resources.
+- **Bird Movement** - Control the bird's movement throughout the game.
+- **Obstacle Avoidance** - Navigate through obstacles without colliding with them.
+- **Score Challenge** - Challenge yourself to achieve a higher score.
+- **Game Assets** - Includes an assets directory for game resources.
 
 > Note: Adjust this feature list to match the functionality implemented in the source code.
 
@@ -103,11 +103,6 @@ Possible improvements for future development include:
 - Enhancing gameplay difficulty.
 - Optimizing the game for a better player experience.
 
-## 👨‍💻 Author
-
-**LaOdhe16**
-
-GitHub: [@LaOdhe16](https://github.com/LaOdhe16)
 
 ## 📄 License
 
